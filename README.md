@@ -9,4 +9,4 @@ Effective Python, wikidocs에 있는 파이선관련 정리들, 블로그 글들
 
 ## 일정
 
-1주차: 
+[1주차: getting started](https://github.com/BackendStudyOrg/python_concepts/issues/1)
