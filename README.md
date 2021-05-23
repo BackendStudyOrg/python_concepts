@@ -10,3 +10,6 @@ Effective Python, wikidocs에 있는 파이선관련 정리들, 블로그 글들
 ## 일정
 
 [1주차: getting started](https://github.com/BackendStudyOrg/python_concepts/issues/1)
+[2주차: 리스트와 딕셔너리](https://github.com/BackendStudyOrg/python_concepts/issues/2)
+[3주차: 함수](https://github.com/BackendStudyOrg/python_concepts/issues/3)
+[4주차: 클래스](https://github.com/BackendStudyOrg/python_concepts/issues/4)
